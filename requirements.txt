@@ -1,0 +1,6 @@
+# requirements.txt
+python-telegram-bot==22.1
+deepface==0.0.93
+opencv-python-headless==4.11.0.86
+tf-keras==2.19.0
+numpy>=1.26.0
